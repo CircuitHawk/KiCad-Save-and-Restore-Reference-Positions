@@ -21,4 +21,4 @@ After pulling changes into the board layout some reference designators are reloc
 
 You can see the designators are back to their saved positions:
 
-![Imgur Image](https://imgur.com/W34IAzS[/img])
+![Imgur Image](https://imgur.com/W34IAzS.png[/img])
